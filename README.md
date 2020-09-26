@@ -5,7 +5,7 @@ Correlations are important for several reasons. One of the is the fact that is a
 
 The major data input for the 04_08.js source code was issued from the journal.js. The JSON formatted journal.js file contains the array of objects. Each object is coposed of two properties. One property is an array called event. The array is made of elements of type String. The second property is a boolean value: squirrel.
 
-Thaugh this code was inspired from a book: Eloquent Javascript by Marijn Haverbeke, I fully understood each line of code.
+Code was inspired from a book: Eloquent Javascript by Marijn Haverbeke
 
 Please do not hesitate to run the code to take a look at the consol.log() outputs on the console. 
 
