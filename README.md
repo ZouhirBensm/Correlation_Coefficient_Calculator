@@ -27,7 +27,7 @@ Step 3:
 
 In terminal type: node /Users/username/Downloads/04_08.js
 
-Step 5:
+Step 4:
 
 Look at the outputs and re-run the program to see that any input in the source code generates the right output on the console!
 
