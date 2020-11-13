@@ -80,7 +80,7 @@ for (let activity of journalEvents(JOURNAL)){
 
 console.log("\n");
 
-//Add the event property array elements "peanut teeth" for event property array that contain "peanuts" and don't constain "brushed teeth"
+//Add the event property array elements "peanut teeth" for event property array that contain "peanuts" and don't contain "brushed teeth"
 for (let entry of JOURNAL){
 	if(entry.events.includes("peanuts") && !entry.events.includes("brushed teeth")){
 		entry.events.push("peanut teeth");
