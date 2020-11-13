@@ -1,5 +1,4 @@
 # Correlation_Coefficient_Calculator
-Code inspired from a book Calculates the correlation coefficients between a two object properties. More details in Read me file!
 
 Correlations are important for several reasons. One of them is the fact that is allows a better understanding of complexe systems. The likelihood of a parameter effecting another one enables professionals of different domains to draw conclusions. This project was a terrific way to deeply understand how functions operate on data -array of objects. Also I learned to a new level how properties from objects or how elements from arrays can be easily destructured. Breaking these complexe sources of data into little particles allow for a better ability and flexebility to compute and make otherwise difficult calculations. Loops enable flexibility in terms of flow. Recursion was heavily used in this project. Also an instance of a call stack was unvisible in a block of code but having a thorough understanding of how code operates I was able to conceptually grasp the phenomena..
 
